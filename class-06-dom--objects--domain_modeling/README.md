@@ -1,7 +1,7 @@
 <a id="top"></a>
 # Today's Plan: Class 06 Lecture
 
-- Code Review [Scott]
+- Code Review
 - [Objects and Methods](#objects)
 - [Go over the domain modeling articles](#readings)
 - [The Document Object Model (JS book, Ch.5)](#dom)

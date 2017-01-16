@@ -2,7 +2,7 @@
 # Today's Plan: Class 09 Lecture
 
 - Announcements
-- [Layout](#layout) [Dan]
+- [Layout](#layout)
 
 ## Readings due today
 

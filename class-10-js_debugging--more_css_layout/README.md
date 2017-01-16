@@ -1,7 +1,7 @@
 # Today's Plan: Class 10 Lecture
 
-- [Code Review](#codereview) [Dan]
-- [JS Debugging ](#debugging) [Dan]
+- [Code Review](#codereview)
+- [JS Debugging ](#debugging)
 
 ## Readings
 
