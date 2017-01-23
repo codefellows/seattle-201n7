@@ -3,7 +3,7 @@
 
 This first day of class is an all-day session with the students that is mostly lecture.
 
-- [Kickoff! (with slides)](#kickoff)
+- [Kickoff!](#kickoff)
 - [Academic Overview (with slides)](#academic)
 
 - [Unix & Git (with slides)](#ug)
@@ -18,14 +18,11 @@ This first day of class is an all-day session with the students that is mostly l
 - HTML Chapter 8: "Extra Markup"
 - HTML Chapter 17: "HTML5 Layout"
 - HTML Chapter 18: "Process & Design"
-- JS Chatper 1: "The ABC of Programming"
+- JS Chapter 1: "The ABC of Programming"
 
 <a id="kickoff"></a>
 ## Kickoff!
-
-[Slides: 1-first-day-orientation.pdf](slides/1-first-day-orientation.pdf)
-
-This is the welcome and introduction to Code Fellows. Students will meet the campus manager and learn about campus operations and policies.
+Lets talk about Code Fellows and your upcoming journey!!
 
 [-top-](#top)
 
@@ -43,7 +40,7 @@ The instructor will give an overview of the topics to be covered in this course 
 
 By doing a few quick tests and exercises, as detailed below, ensure that students have functionality of all of the core pieces of their development environment:
 - Atom: type `atom` in the command line to verify that it opens properly. Command line tools may need to be installed.
-- Atom packages: Be sure that they have linter, minimap,and open-in-browser installed.
+- Atom packages: Be sure that they have linter, minimap, and open-in-browser installed.
 - Chrome: how to open the console
 - Git: enter `which git` in the command line to verify installation
 - Directory structure: Have students set up a directory at ~/codefellows/201/ in which they will store their classwork. Go over directory structure in general; compare to GUI.
