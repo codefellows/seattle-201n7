@@ -1,10 +1,13 @@
 # Code 201: Foundations of Software Development
-Welcome to Seattle-201n5!
+Welcome to Seattle-201n7!
 
 **Instructors & TAs**
 
 *Instructor*: Scott Schmidt
-*Co-Instructor*: Dan Schwartz
+*Teaching Assistants*:
+  * Hadiya Hope-Crichlow
+  * Justin Byun
+  * Lee Broxon
 
 
 # Introduction
@@ -29,25 +32,21 @@ Part 4 | Project Weeks!
 **Room**: TBD
 
 **Instructional Lecture**
-- Tuesday: 6:30pm to 9:30pm
-- Thursday: 6:30pm to 9:30pm
+- Monday: 6:30pm to 9:30pm
+- Wednesday: 6:30pm to 9:30pm
 
 **Instructional Lab**
-- Sunday: 9am to 6pm (lunch 12pm-1pm)
+- Saturday: 9am to 6pm (lunch 12pm-1pm)
 
 **Co-Work Lab**
-- Monday & Wednesday: 6:30pm to 930pm
+- Tuesday & Thursday: 6:30pm to 930pm
 
 **Homework**: There are reading and coding assignments several times a week.
 
 **Duration**:
 Night courses meet Monday through Thursday, plus one weekend day. In weeks two through six, 2 weeknight classes will be unattended co-working lab time.
-* First class: July 18, 2016 (Monday)
-* Last class: September 11, 2016 (Sunday)
-
-**Holiday Notice**
-We will observe the following holidays. Your instructor will review any scheduling modifications necessary to complete the full duration of the course.
-* *Memorial Day: September 5, 2016 (Monday)*
+* First class: Jan 23rd 2017 (Monday)
+* Last class: Mar 18th 2017 (Saturday)
 
 ## Lecture Notes from class
 
@@ -56,7 +55,7 @@ Lecture Notes will be a markdown-formatted file in the class repository.
 
 ## Video Lectures  
 
-The youtube playlist will be updated regularly with video lectures. You can access it [here](https://www.youtube.com/playlist?list=PLVngfM2hsbi-OY5KSuzz2VT7XGSnh9lRh)
+The youtube playlist will be updated regularly with video lectures. You can access it [here](https://www.youtube.com/playlist?list=PLVngfM2hsbi-6thqVIAw07y5sIp0MlOoc)
 
 ## Assignments
 
