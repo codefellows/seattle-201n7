@@ -1,7 +1,7 @@
 <a id="top"></a>
 # Today's Plan: Class 03 Lecture
 
-- [Code Review](#codereview)
+- Code Review
 - GitHub Branches
 - [CSS Box Model](#box)
 - [JS Control Flow](#control)
@@ -21,13 +21,6 @@ We're not going to go over the chapter on HTML lists in class but feel free to a
 - p.66: Unordered/bullet lists
 - p.67: Definition lists
 - p.68: Nested lists
-
-<a id="codereview"></a>
-## Code Review & Follow-up
-
-1. Let's take about 15-30 minutes to do any Q&A and/or review from our code assignment from yesterday.
-2. Console.logs & Basic Debugging.
-3. Review Git/GitHub - Let's set up another repository for practice, then we'll look at how to work with git branches and pull requests.
 
 [-top-](#top)
 

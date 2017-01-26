@@ -23,10 +23,10 @@ User stories typically take the form of, "As X, I want Y, so that Z" but do not 
 - Use the existing Git repository that was initialized for the Class-01 guessing game.
 - Create a new GitHub repository and connect it to the existing repo that we already created.
 - HTML, CSS, and JavaScript must be cleanly written with correct indentation and syntax. Look at examples online and in your textbook.
-  - Note that your JS must pass the rules in the linter that we installed.
 - Enhance the guessing game to include a fifth and sixth question.
   - One of these questions should include the use of logical operators (refer to page ~157 of the JS text book for example usage). As a secondary example, one of your questions can validate use input in the form of 'Yes' and 'Y', or 'No' and 'N'.
   - One of the questions should include multiple answers (more than two). These answers can be stored in an array, and you will want to use the array method `indexOf()` to find out whether the user's guess exists in the array or not. If it does, use the index returned to you to select that value and tell the user that they guessed the answer correct.
+  - [Array Reference Sheet](arrays.md) found here.
 - Useful and descriptive `console.log()` messages in the JS are well written and correctly displaying to the browser console for each question of the guessing game.
 - Use CSS to style your page as you see fit, to the level of abilities in CSS that you currently have.
 - Add, Commit, Push process is being followed; evident in GitHub that commits are made regularly, and with good commit messages.

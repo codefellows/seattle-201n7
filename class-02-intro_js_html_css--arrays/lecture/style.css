@@ -1,0 +1,24 @@
+/* EVERYTHING selector */
+* {
+  border: 1px solid grey;
+}
+
+/* element selectors */
+
+h1 {
+  color: yellow;
+}
+
+h2, h3 {
+
+}
+
+/* class selector */
+.title {
+  color: blue;
+}
+
+/* ID selector */
+#bob {
+  color: green;
+}
