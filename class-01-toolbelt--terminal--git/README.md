@@ -1,6 +1,14 @@
 <a id="top"></a>
 # Today's Plan: Class 01 Lecture
 
+## Day 1.5 Notes:
+* Review Canvas Calendar, and sections for TA Grading
+  * Review Scott's time off, plan for coverage
+* Do folks want to have assignments posted regularly or in advance? Weekly/Monthly/All Now?
+* Review the 3 assignments and flow of the course
+* Note: Slack history does not persist long. Too much activity, so be sure to bookmark or otherwise save links or other data.
+
+
 This first day of class is an all-day session with the students that is mostly lecture.
 
 - [Kickoff!](#kickoff)

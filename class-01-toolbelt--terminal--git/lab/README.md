@@ -1,4 +1,4 @@
-# Assignment Overview: Lab for Class 2
+# Assignment Overview: Lab for Class 1
 
 ### About Me HTML Page
 - Your assignment will be to create an "About Me" HTML and JS project that includes a simple resumé page and a JS-based guessing game about you.

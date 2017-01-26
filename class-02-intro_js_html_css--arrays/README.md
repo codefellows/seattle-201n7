@@ -1,12 +1,12 @@
 <a id="top"></a>
 # Today's Plan: Class 02 Lecture
 
-- code review
-
+- Code review
+  * How is this thing happening
+  * What is it doing, at a high level
+  * Why did the author put it there
 - Git and GitHub
-
 - [Go over the assigned readings](#readings)
-
 - Lab assignment overview
 
 
