@@ -1,0 +1,44 @@
+* {
+  border: 1px dashed black;
+}
+
+h2 {
+  margin: 2px;
+  /*margin-top: 2px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  margin-left: 2px;*/
+
+  margin: 2px 3px;
+  /*margin-top: 2px;
+  margin-right: 3px;
+  margin-bottom: 2px;
+  margin-left: 3px;*/
+}
+
+li {
+  border: 2px solid green;
+  /*
+  border-width: 2px;
+    border-top: 2px;
+    border-right: 2px;
+    border-bottom: 2px;
+    border-left: 2px;
+  boder-style: solid;
+  border-color: green;
+  */
+}
+
+/* Order of operations in CSS - Very high level to Very specific */
+* {
+  /* do styles */
+  font-family: helvetica;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+h1#test {
+  font-family: fantasy;
+}
