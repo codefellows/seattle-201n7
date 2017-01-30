@@ -1,13 +1,9 @@
 <a id="top"></a>
 # Today's Plan: Class 04 Lecture
 
-- Announcements
-
-- Week 1: impressions & reflections?
+- Review current feedback
 
 - [Code Review](#codereview)
-
-- [Links](#links)
 
 - [CSS layout](#css)
 
