@@ -1,0 +1,57 @@
+header {
+  background-color: gray;
+  height: 25px;
+}
+
+nav li {
+  float: left;
+}
+
+.nav-lists {
+  text-align: right;
+  margin-right: 25px;
+}
+
+.nav-lists li {
+  list-style: none;
+  display: inline;
+  margin: 2px 4px;
+}
+
+main {
+  position: relative;
+}
+
+aside {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  border: 1px solid grey;
+  background-color: lightgrey;
+  display: inline-block;
+}
+
+aside ul {
+  padding: 0;
+  margin: 0;
+}
+
+aside li {
+  list-style: none;
+}
+
+li img {
+  width: 25px;
+}
+
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  background-color: gray;
+  text-align: center;
+}
+
+.content {
+  margin-left: 35px;
+}

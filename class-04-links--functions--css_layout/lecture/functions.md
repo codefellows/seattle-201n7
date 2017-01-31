@@ -17,6 +17,7 @@
 //DECLARE a function without parameters
 function someFunction() {
 	console.log('I wish I had parameters');
+	return;
 }
 
 //CALL the function.

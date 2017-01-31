@@ -1,6 +1,18 @@
 <a id="top"></a>
 # Today's Plan: Class 04 Lecture
 
+1. Brandon / Sidney
+1. Matt / Chase
+1. James / Kevin
+1. Pablo / Rehan
+1. Katy / Brian
+1. Steve / Chrystie
+1. Ix / Bhawan
+1. David / Louis
+1. Paula / Kenny / Adonay
+1. Keith / Sam
+1. Christian / Iryna
+
 - Review current feedback
 
 - [Code Review](#codereview)
