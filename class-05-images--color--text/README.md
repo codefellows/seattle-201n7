@@ -1,7 +1,9 @@
 <a id="top"></a>
 # Today's Plan: Class 05 Lecture
 
-- Code review
+- Finish up functions!!
+- Lessons learned in pair programming labs?
+- Deploying your Guessing Game to GH-Pages!! 
 - [Go over assorted topics and the assigned readings](#readings)
 - [Lab assignment](#code)
 
@@ -21,8 +23,6 @@
 - Meetups, Twitter, Blogs
 - [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - [String methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-- Pseudocode: function rectangleAreaAndPerimeter
-  - write a function that takes two numbers, calculates the perimeter and area of a rectangle with sides defined by those numbers, and returns an array containing (in this order): the perimeter, the area, and the exact string 'A rectangle with sides of length <x> and <y> has an area of <A> and a perimeter of <P>.' All `<>` values in the string should be dynamically populated based on the function call.
 - Deployment
 
 **HTML Chapter 5: "Images"**
