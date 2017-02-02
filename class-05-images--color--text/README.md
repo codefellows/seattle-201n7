@@ -1,10 +1,10 @@
 <a id="top"></a>
 # Today's Plan: Class 05 Lecture
 
-- Finish up functions!!
 - Lessons learned in pair programming labs?
-- Deploying your Guessing Game to GH-Pages!! 
+- Finish up functions!!
 - [Go over assorted topics and the assigned readings](#readings)
+- Deploying your Guessing Game to GH-Pages!!
 - [Lab assignment](#code)
 
 ## Readings
@@ -17,13 +17,6 @@
 
 <a id="readings"></a>
 ## Discuss readings and assorted other topics
-
-**Hodgepodge of topics to address:**
-- Good branch naming
-- Meetups, Twitter, Blogs
-- [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-- [String methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-- Deployment
 
 **HTML Chapter 5: "Images"**
 
