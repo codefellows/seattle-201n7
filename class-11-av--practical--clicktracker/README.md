@@ -1,8 +1,6 @@
 <a id="top"></a>
 # Today's Plan: Class 11 Lecture
 
-- Announcements
-- Weekly Surveys
 - [Code Review](#codereview)
 - [Discuss the assigned readings](#readings)
 - [Assignment overview & code demo](#code)
