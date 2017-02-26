@@ -2,7 +2,7 @@
 # Today's Plan: Class 12 Lecture
 
 - Announcements
-  - 301 Enrollment
+  - JavaScript / Python Info Session
   - Project Week is getting closer! Here are some more sample projects to look at:
     - [Sasquatch Dice](http://mmailman.github.io/dice-game/)
     - [OnTrack](http://jeffgebhardt.github.io/on-track/)
