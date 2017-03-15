@@ -53,10 +53,6 @@ Night courses meet Monday through Thursday, plus one weekend day. In weeks two t
 Lecture Notes will be placed in each class' lecture-code subdirectory after they are presented.  
 Lecture Notes will be a markdown-formatted file in the class repository.
 
-## Video Lectures  
-
-The youtube playlist will be updated regularly with video lectures. You can access it [here](https://www.youtube.com/playlist?list=PLVngfM2hsbi-6thqVIAw07y5sIp0MlOoc)
-
 ## Assignments
 
 Lab-time code assignments follow each lecture. You can find these assignments in the subdirectories of each class folder. Assignment content will vary from day to day, depending on the topic. Some of the lab assignments will be pair programming assignments.

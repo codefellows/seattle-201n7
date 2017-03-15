@@ -2,6 +2,32 @@
 # Today's Plan: Class 14 Lecture
 
 # Project Pitches:
+1. Restaurant/Beer picker [Paula]
+  * Chase Cross
+  * Katy SanGregory
+  * Brian Namgung
+
+2. Cocktail generator [Sam]
+  * James Billard
+  * Chrystie Cottier
+  * Louis Haywood
+
+3. Wireless carrier comparison tool [Kenny]
+  * Keith Brantley
+  * Ixius Procopios
+  * Brandon Holderman
+
+4. OutsourceMe [Matt]
+  * Adonay Lebeneh
+  * Iryna Maslova
+  * Sidney Gordon
+
+5. Card game [Kevin]
+  * Christian Tabacznyf
+  * Steve Walsh
+  * Pablo Mendoza
+
+
 
 - Announcements
   - Project Week is almost here!!!
